@@ -58,7 +58,7 @@ This Excel file contains three sheets:
 If you use this dataset, please cite as:
 
 **APA citation**  
-Bucciarelli, P., & D’Herbemont, V. (2025). *Supplementary dataset for: Can European strategic autonomy be achieved without sufficiency? Modelling the implications of the Critical Raw Materials Act on the lithium value chain.* Zenodo. https://doi.org/xxxxx
+Bucciarelli, P., & D’Herbemont, V. (2025). *Supplementary dataset for: Can European strategic autonomy be achieved without sufficiency? Modelling the implications of the Critical Raw Materials Act on the lithium value chain.* Zenodo. https://doi.org/10.5281/zenodo.16982528
 
 **BibTeX citation**
 ```bibtex
@@ -67,8 +67,8 @@ Bucciarelli, P., & D’Herbemont, V. (2025). *Supplementary dataset for: Can Eur
   title        = {Supplementary dataset for: Can European strategic autonomy be achieved without sufficiency? Modelling the implications of the Critical Raw Materials Act on the lithium value chain},
   year         = {2025},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.xxxxx},
-  url          = {https://doi.org/10.5281/zenodo.xxxxx} 
+  doi          = {10.5281/zenodo.16982529},
+  url          = {https://doi.org/10.5281/zenodo.16982528} 
 }
 
 ---
