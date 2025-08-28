@@ -1,6 +1,6 @@
 # Supplementary Data – Lithium Value Chain
 
-This repository provides the supplementary dataset accompanying the working paper  
+This repository provides the supplementary dataset accompanying the academic work
 **“Can European strategic autonomy be achieved without sufficiency? Modelling the implications of the Critical Raw Materials Act on the lithium value chain.”**
 
 The data is designed for transparency and reproducibility of the modelling exercises presented in the paper. It can be used to parameterise the TIAM-IFPEN model or for related analyses of the lithium supply chain.
@@ -50,6 +50,26 @@ This Excel file contains three sheets:
 - All monetary values are expressed in **constant USD** of the year indicated (2022 for parametrisation, 2007 for trade costs).
 - Regional definitions follow the **16-region aggregation** of TIAM-IFPEN (see Appendix of the paper).
 - These datasets are **inputs** to the scenarios described in the manuscript (S1–S4 and sensitivities). They should be read in conjunction with the methodological section of the article.
+
+---
+
+## How to Cite
+
+If you use this dataset, please cite as:
+
+**APA citation**  
+Bucciarelli, P., & D’Herbemont, V. (2025). *Supplementary dataset for: Can European strategic autonomy be achieved without sufficiency? Modelling the implications of the Critical Raw Materials Act on the lithium value chain.* Zenodo. https://doi.org/xxxxx
+
+**BibTeX citation**
+```bibtex
+@dataset{bucciarelli_dherbemont_2025,
+  author       = {Bucciarelli, Pauline and D'Herbemont, Vincent},
+  title        = {Supplementary dataset for: Can European strategic autonomy be achieved without sufficiency? Modelling the implications of the Critical Raw Materials Act on the lithium value chain},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.xxxxx},
+  url          = {https://doi.org/10.5281/zenodo.xxxxx} 
+}
 
 ---
 
